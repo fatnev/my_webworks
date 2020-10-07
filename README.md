@@ -2,6 +2,9 @@
 Несколько примеров выполненных работ по созданию сайтов.
 
 #### 1С-Битрикс
++ https://bonafide2020.ru/
++ https://mebellotus.com/
++ https://cvetok26.ru/
 + https://ergolit.ru/
 + https://novostroy26.ru/
 + https://onlineits.ru/
