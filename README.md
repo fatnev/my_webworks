@@ -7,7 +7,7 @@
 + https://mebellotus.com/
 + https://cvetok26.ru/
 + https://ergolit.ru/
-+ https://novostroy26.ru/
++ https://novostroy126.ru/
 + https://onlineits.ru/
 + https://parketniy-pol.ru/
 + https://marshrut26.ru/
