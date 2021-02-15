@@ -1,34 +1,32 @@
 # web_works
-Несколько примеров выполненных работ по созданию сайтов.
+Несколько примеров выполненных работ в разное время по созданию сайтов. 
 
 #### 1С-Битрикс
-+ https://semcorp.ru/
-+ https://bonafide2020.ru/
-+ https://mebellotus.com/
-+ https://cvetok26.ru/
-+ https://ergolit.ru/
-+ https://novostroy126.ru/
-+ https://onlineits.ru/
-+ https://parketniy-pol.ru/
-+ https://marshrut26.ru/
-+ https://gruzotaxi26.ru/
-+ https://cc26.ru/
-+ https://gazvauto26.ru/
-+ https://multlock26.ru/
-+ https://expert-doc.ru/
-+ https://propanoff.ru/
-+ https://online-kassa26.ru/
-+ https://www.martaka.ru/
++ https://semcorp.ru/ - Сайт строительно-монтажной компании
++ https://bonafide2020.ru/ - Юридический центр "Бона Фиде" 
++ https://mebellotus.com/ - Интернет-магазин "Мебель Лотус"
++ https://cvetok26.ru/ - Интернет-магазин по доставке цветов
++ https://ergolit.ru/ - Сайт компании изготавляющей художественную резку по граниту и камню
++ https://novostroy126.ru/ - Сайт-каталог сети строительных магазинов Новострой
++ https://onlineits.ru/ - Сайт компании предоставляющей услуги информационно-технологического сопровождения 1С
++ https://parketniy-pol.ru/ - Сайт компании "Паркетный Пол"
++ https://marshrut26.ru/ - Сайт рекламного агентства
++ https://gruzotaxi26.ru/ - Сайт транспортно-экспедиционной компании "Грузотакси26"
++ https://cc26.ru/ - Сайт строительно-монтажной компании "СпециалистСтрой"
++ https://expert-doc.ru/ - Интегратор элетронного документооборота "Эксперт Док"
++ https://propanoff.ru/ - Сеть профессиональных установочных центров газобаллонного оборудования
++ https://online-kassa26.ru/ - Сайт-каталог по продаже онлайн-касс
++ https://www.martaka.ru/ - Персональный сайт частного дизайнера
 
 <hr>
 
 #### Drupal
-+ https://muzhnow.ru/
-+ https://polagroprom.ru/
++ https://muzhnow.ru/ - Персональный сайт частного специалиста по ремонтно-отделочным работам
++ https://polagroprom.ru/ - Сайт производителя сельскохозяйственного оборудования
 
 <hr>
 
 #### PHP & CSS
-+ https://krovlya26.ru/
-+ https://ugtrans-auto.ru/
-+ https://gruz-ritual.ru/
++ https://krovlya26.ru/ - Сайт-визитка Кровельные работы
++ https://ugtrans-auto.ru/ - Сайт транспортной компании
++ https://gruz-ritual.ru/ - Лэндинг ритуально-транспортной компании
