@@ -37,6 +37,12 @@
 
 <hr>
 
+#### Wordpress
++ https://home-mebel26.ru/ - Изготовление мебели на заказ в Ставрополе
++ https://blog.fatnev.ru/ - Персональный блог
+
+<hr>
+
 #### PHP & CSS
 + https://krovlya26.ru/ - Сайт-визитка Кровельные работы
 + https://ugtrans-auto.ru/ - Сайт транспортной компании
