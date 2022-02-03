@@ -39,7 +39,6 @@
 
 #### Wordpress
 + https://home-mebel26.ru/ - Изготовление мебели на заказ в Ставрополе
-+ https://blog.fatnev.ru/ - Персональный блог
 
 <hr>
 
