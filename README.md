@@ -33,17 +33,12 @@
 <hr>
 
 #### Drupal
-<<<<<<< Updated upstream
-=======
-+ https://fatnev.ru/ - Персональный сайт
->>>>>>> Stashed changes
 + https://muzhnow.ru/ - Сайт частного специалиста по ремонтно-отделочным работам
 + https://polagroprom.ru/ - Сайт производителя сельскохозяйственного оборудования
 
 <hr>
 
 #### Wordpress
-+ https://gnvs.ru/ - Блог, заметки по работе
 + https://home-mebel26.ru/ - Изготовление мебели на заказ в Ставрополе
 + https://konteinerniye-perevozki.ru/ - Лэндинг Контейнерные перевозки в Ставрополе
 
@@ -57,11 +52,5 @@
 <hr>
 
 #### Свои проекты
-<<<<<<< Updated upstream
 + https://fatnev.ru/ - Официальный персональный сайт
 + https://blog.fatnev.ru/ - Блог, заметки веб-разработчика
-=======
-+ https://site26.ru/ - Сайт веб-студии (в вечной разработке :roll_eyes:)
-+ https://stbx.ru/ - Партнерская промо-страница 1С через Интернет
-+ https://bxdev.ru/ - Лэндинг под рекламу для Яндекс.Директ
->>>>>>> Stashed changes
