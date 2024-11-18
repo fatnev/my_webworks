@@ -60,5 +60,5 @@
 + https://fatnev.ru/ - Официальный персональный сайт
 + https://site26.ru/ - Сайт веб-студии
 + https://stbx.ru/ - Проект в архиве
-+ https://bxdev.ru/ - Скоро переключу gnvs.ru на этот домен и направлю в seo
++ https://bxdev.ru/ - В процессе
 
